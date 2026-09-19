@@ -119,5 +119,3 @@ streamlit run app.py
 ---
 
 © 2026 Rudresh Kalgutkar. All Rights Reserved.
-
-```
