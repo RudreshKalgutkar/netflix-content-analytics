@@ -1,4 +1,3 @@
-```markdown
 # 🍿 Netflix Content Strategy & Analytics
 
 **Live Dashboard:** [View the Interactive Web App Here](https://netflix-content-analytics-rudreshkalgutkar.streamlit.app/)
@@ -83,8 +82,6 @@ netflix-content-analytics/
 ├── Netflix Project Final V3.ipynb        # Data cleaning & engineering notebook
 ├── Netflix_Project_Final_V3.csv          # Cleaned dataset fueling the live app
 └── requirements.txt                      # Cloud deployment dependencies
-
-```
 
 ## 📊 Visual Portfolio
 
