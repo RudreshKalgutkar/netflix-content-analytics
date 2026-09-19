@@ -110,23 +110,14 @@ To explore the dashboard on your local machine, follow these steps:
 3. Open your terminal/command prompt in the project directory and install the required packages:
 ```bash
 pip install -r requirements.txt
-
 ```
-
-
 4. Launch the application:
 ```bash
 streamlit run app.py
-
 ```
-
-
 5. The dashboard will automatically open in your default web browser at `http://localhost:8501`.
-
 ---
 
 © 2026 Rudresh Kalgutkar. All Rights Reserved.
-
-```
 
 ```
