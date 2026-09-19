@@ -83,18 +83,24 @@ netflix-content-analytics/
 ├── Netflix_Project_Final_V3.csv          # Cleaned dataset fueling the live app
 └── requirements.txt                      # Cloud deployment dependencies
 
+```
+
 ## 📊 Visual Portfolio
 
 ### 1. Executive Overview & KPIs
+![Overview Dashboard](images/overview.PNG)
 
-### 2. Content Type Split
+### 2. Catalog Composition (Content Type Split)
+![Catalog Composition](images/part1.PNG)
 
-### 3. Historical Production Velocity
+### 3. Acquisition Trends (Historical Production Velocity)
+![Acquisition Trends](images/part2.PNG)
 
-### 4. Global Content Production Footprint
+### 4. Global Content Footprint (Choropleth Map)
+![Global Footprint](images/part3.PNG)
 
-### 5. Macro Genre Landscape
-
+### 5. Genre Intelligence (Macro Genre Landscape)
+![Genre Intelligence](images/part4.PNG)
 ## 🚀 How to Run Locally
 
 To explore the dashboard on your local machine, follow these steps:
